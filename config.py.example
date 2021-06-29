@@ -1,0 +1,9 @@
+instance_id: str = 'i-'
+aws_access_key_id: str = ''
+aws_secret_access_key: str = ''
+region_name: str = ''
+
+BLINK_KEY: str = ''
+
+user_name: str = ''
+ssh_key_name: str = ''
